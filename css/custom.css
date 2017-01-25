@@ -1,0 +1,81 @@
+/*--------------------------------------------------------------
+# Lander Default Start
+--------------------------------------------------------------*/
+html {
+	font-family: "Century Gothic";
+}
+body {
+	margin: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+}
+div {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+/*--------------------------------------------------------------
+# Lander Default End
+--------------------------------------------------------------*/
+#page {
+	width: 1349px;
+	margin: 0 auto;
+}
+.page-title {
+	text-align: center;
+}
+.page-title img {
+	width: 480px;
+}
+.page-title p {
+	font-size: 33px;
+	color: #fff;
+	text-shadow: 2px 2px 0px #000;
+}
+#wrapper {
+	background-image: url(http://landing-page.localhost/css/images/jungle.jpg);
+	height: 729px;
+	padding-top: 45px;
+}
+.header-content {
+	width: 1025px;
+	margin: 0 auto;
+}
+.header-left-description, .header-middle-image, .header-right-description {
+	display: inline-block;
+}
+.header-left-description,
+.header-right-description {
+	vertical-align: top;
+	color: #fff;
+	text-shadow: 2px 2px 0px #000;
+	width: 297px;
+	line-height: 33px;
+}
+.header-middle-image {
+	margin-top: 57px;
+}
+.header-right-description {
+	text-align: right;
+}
+.cta-button {
+	padding: 38px;
+	background-color: rgba(95,136,84,0.53);
+}
+.reserve-btn {
+	text-align: center;
+	color: #fff;
+}
+.reserve-btn a {
+	color: #fff;
+	background-color: #f3343a;
+	border-radius: 8px;
+	padding: 10px 15px;
+}
