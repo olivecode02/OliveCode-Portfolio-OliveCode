@@ -79,3 +79,73 @@ a {
 	border-radius: 8px;
 	padding: 10px 15px;
 }
+.slider {
+	display: inline-block;
+	padding: 0px;
+	margin: 0px -2px;
+	width: 337px;
+	height: auto;
+}
+.slider img {
+	width: 339px;
+	height: auto;
+}
+.features-box {
+	width: 1137px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.features {
+	display: inline-table;
+	width: 326px;
+	text-align: center;
+	padding: 25px;
+}
+.features img {
+	width: 275px;
+}
+.olive-testimony {
+	background-image: url(http://landing-page.localhost/css/images/rainforest2-large.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.testimony-box {
+	width: 630px;
+	margin: 0 auto;
+	padding: 64px;
+}
+.testimony {
+	display: inline-block;
+	width: 236px;
+	margin-right: 153px;
+}
+.testimony:last-child,
+.comment p,
+.tourist p {
+	margin: 0;
+}
+.comment {
+	padding: 15px;
+	background-color: #fff;
+	border: 5px solid #5f8854;
+	border-radius: 15px;
+}
+.commenter {
+	padding-top: 10px;
+}
+.commenter img {
+	width: 66px;
+	display: inline-block;
+}
+.tourist {
+	display: inline-block;
+	vertical-align: top;
+	width: 152px;
+}
+.tourist p:first-child,
+.tourist p:last-child {
+	font-weight: bold;
+}
+.tourist p:last-child {
+	color: #295f14;
+}
