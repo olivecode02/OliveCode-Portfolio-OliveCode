@@ -149,3 +149,19 @@ a {
 .tourist p:last-child {
 	color: #295f14;
 }
+footer {
+	background-image: url(http://landing-page.localhost/css/images/foot_jungle.png);
+	box-shadow: 2px 2px 2px #000;
+}
+.olive-copyright {
+	width: 500px;
+	margin: 0 auto;
+}
+.olive-copyright p {
+	font-size: 13px;
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 1px 0px #000;
+	margin: 0;
+	padding: 20px;
+}
